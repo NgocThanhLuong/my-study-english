@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Compact cumulative ledger used to review prior learning before publishing each new immutable daily package.",
+  "lastReviewedDay": 1,
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-08-18",
+      "topic": "Think in chunks, not translated words",
+      "coreMentalModels": [
+        "Fluent retrieval works better with reusable chunks than word-by-word translation",
+        "Build an English sentence spine before adding detail",
+        "Grammar choices encode viewpoint, not only time"
+      ],
+      "soundFocus": ["sentence stress", "content words carry prominent beats", "function words are often reduced in natural speech"],
+      "grammarFocus": ["explicit subject-verb sentence spine", "grammar as viewpoint"],
+      "pragmaticsDiscourseFocus": ["short reaction chunks maintain conversational flow", "acknowledging versus fully agreeing", "using discourse markers to transition"],
+      "languageSystemFocus": ["English relies strongly on word order and helper words", "stress-timed tendency", "collocation as part of language knowledge"],
+      "introducedItems": ["actually", "pretty", "kind of", "I mean", "make sense", "fair enough", "sounds good", "by the way", "lately", "usually", "catch up", "no worries"],
+      "introducedChunks": ["Actually, I was thinking…", "That makes sense.", "Yeah, fair enough.", "Sounds good to me.", "By the way, did you…?", "I've been busy lately.", "I usually just…", "We should catch up sometime.", "No worries at all."],
+      "intentionallyReviewedItems": [],
+      "spokenOutput": "60 seconds about current life using at least four Day 1 chunks",
+      "retrievalSchedule": [
+        {"targetDay": 2, "goal": "reuse 2–3 reaction/discourse chunks during self-introduction"},
+        {"targetDay": 4, "goal": "retrieve sentence spine and chunk principle in a relationship context"},
+        {"targetDay": 8, "goal": "retrieve Day 1 chunks without a word list"},
+        {"targetDay": 15, "goal": "contrast 'lately' with present-perfect viewpoint"},
+        {"targetDay": 31, "goal": "reuse reductions/rhythm with familiar Day 1 sentences"}
+      ]
+    }
+  ],
+  "inventory": {
+    "allIntroducedItems": ["actually", "pretty", "kind of", "I mean", "make sense", "fair enough", "sounds good", "by the way", "lately", "usually", "catch up", "no worries"],
+    "conceptsCovered": ["chunk-based retrieval", "sentence stress", "sentence spine", "grammar as viewpoint", "reaction chunks", "analytic structure", "stress-timed tendency", "collocation"]
+  }
+}
