@@ -5,13 +5,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#07111f" />
   <meta name="description" content="Personal 90-day English second-language learning journal." />
+  <meta name="robots" content="noindex,nofollow" />
   <title>Daily English OS — Trần Ngọc Lương</title>
+  <style>html:not(.auth-ok) body{visibility:hidden}</style>
+  <script>
+  (()=>{
+    const LEGACY='dailyEnglishOS.auth.v1', AUTH='dailyEnglishOS.auth.v2', USER='Trần Ngọc Lương';
+    try{
+      const session=JSON.parse(localStorage.getItem(AUTH)||'null');
+      const valid=localStorage.getItem(LEGACY)==='ok' && session && session.version===2 && session.user===USER && Number(session.expiresAt)>Date.now();
+      if(!valid){
+        localStorage.removeItem(LEGACY); localStorage.removeItem(AUTH);
+        const next='study.html'+location.search+location.hash;
+        location.replace('index.html?next='+encodeURIComponent(next));
+        return;
+      }
+      document.documentElement.classList.add('auth-ok');
+    }catch(e){
+      localStorage.removeItem(LEGACY); localStorage.removeItem(AUTH);
+      location.replace('index.html');
+    }
+  })();
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="study-v3.css" />
 </head>
 <body>
-  <div id="loginGate" class="login-gate">
+  <div id="loginGate" class="login-gate hidden">
     <div class="login-shell">
       <section class="login-story">
         <div><span class="eyebrow mint">YOUR SECOND LANGUAGE · 90 DAYS</span><h1>Don't learn English.<br><span>Become English-capable.</span></h1><p>Mục tiêu không phải “biết nhiều”. Mục tiêu là nghe ra, hiểu ý, phản ứng, diễn đạt bản thân và làm việc bằng tiếng Anh mà không phải liên tục quay về tiếng Việt.</p></div>
@@ -19,14 +40,7 @@
       </section>
       <section class="login-panel">
         <div class="brand"><span class="brand-mark">E<span>2</span></span><span><strong>Daily English</strong><small>Personal Learning OS</small></span></div>
-        <h2>Welcome back.</h2><p>Enter your personal learning space.</p>
-        <form id="loginForm" class="login-form">
-          <label>Your name<input id="loginUser" autocomplete="username" value="Trần Ngọc Lương" required></label>
-          <label>Password<input id="loginPassword" type="password" inputmode="numeric" autocomplete="current-password" placeholder="••••••••••" required></label>
-          <div id="loginError" class="login-error hidden"></div>
-          <button class="btn primary" type="submit">Enter Daily English <span>→</span></button>
-        </form>
-        <p class="login-note">Personal browser gate for a static GitHub Pages site. Learning records stay on this browser unless you export a backup.</p>
+        <h2>Session expired.</h2><p>Please return to the protected login page.</p>
       </section>
     </div>
   </div>
