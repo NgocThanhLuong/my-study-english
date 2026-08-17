@@ -1,0 +1,86 @@
+{
+  "day": 1,
+  "date": "2026-08-18",
+  "phase": "Foundation & Identity",
+  "topic": "Think in chunks, not translated words",
+  "title": "Build your English brain",
+  "subtitle": "Ngày 1 · Ngừng ráp từng từ. Bắt đầu lưu tiếng Anh thành những cụm có thể bật ra ngay khi giao tiếp.",
+  "sections": [
+    {
+      "label": "Mental model",
+      "minutes": "7 min",
+      "kicker": "FOUNDATION · HOW FLUENCY WORKS",
+      "title": "A fluent brain retrieves patterns, not dictionaries.",
+      "intro": "Nếu mỗi câu đều đi qua Việt → dịch → ráp ngữ pháp → nói, tốc độ phản xạ sẽ luôn bị giới hạn. Mục tiêu hôm nay là đổi đơn vị học từ từ đơn sang cụm có tình huống.",
+      "blocks": [
+        {"type":"concept","title":"The chunk principle","body":"Đừng chỉ học **actually = thực ra**. Hãy lưu cả cụm: **Actually, I was thinking… / Actually, that makes sense.** Khi nói, não lấy ra cả khối thay vì xây câu từ số 0."},
+        {"type":"compare","leftLabel":"Translation mode","left":"Tôi → muốn → hỏi → bạn → một việc…","rightLabel":"Chunk mode","right":"I wanted to ask you something…"},
+        {"type":"list","items":["Học câu theo **ý định giao tiếp**: mở lời, phản ứng, đồng ý, trì hoãn, làm rõ…","Lặp thành tiếng để tạo **motor memory** cho miệng, không chỉ trí nhớ thị giác.","Một cụm dùng được 20 lần giá trị hơn 20 từ hiếm chỉ nhận ra khi đọc."]},
+        {"type":"action","title":"7-minute mission","body":"Đọc to 5 lần: **Actually, that makes sense.** Sau đó thay “that” bằng 3 ý thật trong ngày của bạn. Không dịch từng từ."}
+      ]
+    },
+    {
+      "label": "Sound",
+      "minutes": "8 min",
+      "kicker": "LISTENING · SENTENCE STRESS",
+      "title": "English does not give every word equal weight.",
+      "intro": "Người Việt dễ cố nghe từng từ. Trong tiếng Anh tự nhiên, content words thường nổi bật; function words thường yếu đi. Tai phải học đỉnh nhịp trước.",
+      "blocks": [
+        {"type":"concept","title":"Stress carries the message","body":"Trong **I REALLY need to TALK to you**, REALLY / TALK nhận trọng âm mạnh hơn. Những từ như to, you có thể ngắn và nhẹ. Nghe đúng nhịp giúp bạn hiểu fast speech tốt hơn."},
+        {"type":"examples","items":[{"en":"I REALLY need to TALK to you.","vi":"Nhấn phần mang thông tin mới/quan trọng."},{"en":"That actually MAKES SENSE.","vi":"Cụm cuối thường mang trọng tâm thông tin."},{"en":"I've been pretty BUSY lately.","vi":"BUSY là điểm neo để tai bắt ý chính."}]},
+        {"type":"action","title":"Ear training","body":"Nghe 3 câu Shadowing bên dưới. Lần 1 chỉ gõ tay vào từ được nhấn. Lần 2 mới bắt chước cả câu."}
+      ]
+    },
+    {
+      "label": "Grammar logic",
+      "minutes": "8 min",
+      "kicker": "GRAMMAR · INFORMATION ARCHITECTURE",
+      "title": "English needs an explicit sentence spine.",
+      "intro": "Tiếng Anh phụ thuộc mạnh vào trật tự từ. Thay vì nhớ S + V + O như công thức thi, hãy hiểu nó như cách người nghe tìm nhanh: ai/cái gì → chuyện gì xảy ra → với ai/cái gì.",
+      "blocks": [
+        {"type":"concept","title":"Subject → Verb → the rest","body":"Trong giao tiếp, hãy tạo **spine** trước: **I need… / She told me… / It feels… / We decided…** rồi mới mở rộng. Cách này giảm việc đứng hình giữa câu."},
+        {"type":"examples","items":[{"en":"I need a minute to think about it.","vi":"Spine: I need… → thêm mục đích."},{"en":"That sounds like a good idea.","vi":"Spine: That sounds… → thêm đánh giá."},{"en":"I've been pretty busy lately.","vi":"Spine: I've been… → trạng thái kéo tới hiện tại."}]},
+        {"type":"concept","title":"Grammar is viewpoint","body":"Tense không chỉ là thời gian. Người nói chọn một **góc nhìn**: habit, event, background, connection-to-now, plan… Trong 90 ngày, mỗi tense sẽ được học bằng hình ảnh ý nghĩa này."}
+      ]
+    },
+    {
+      "label": "Native chunks",
+      "minutes": "8 min",
+      "kicker": "PRAGMATICS · NATURAL REACTIONS",
+      "title": "Sound natural by reacting before explaining.",
+      "intro": "Hội thoại đời thực đầy những phản ứng ngắn. Chúng giữ nhịp, thể hiện thái độ và cho bạn thêm thời gian nghĩ.",
+      "blocks": [
+        {"type":"examples","items":[{"en":"That makes sense.","vi":"Mình hiểu logic/ý của bạn rồi."},{"en":"Fair enough.","vi":"Ừ, lý do đó hợp lý / mình chấp nhận điểm đó."},{"en":"Sounds good.","vi":"Ổn đó / chốt vậy nhé."},{"en":"No worries.","vi":"Không sao / đừng bận tâm."},{"en":"By the way, …","vi":"Chuyển sang một ý mới nhẹ nhàng."}]},
+        {"type":"action","title":"Reaction drill","body":"Tự nghĩ 5 câu người khác có thể nói với bạn hôm nay. Với mỗi câu, phản ứng ngay bằng một chunk trước khi thêm câu giải thích."}
+      ]
+    },
+    {
+      "label": "Deep English",
+      "minutes": "7 min",
+      "kicker": "LANGUAGE LAB · WHY ENGLISH FEELS DIFFERENT",
+      "title": "English is analytic and stress-timed.",
+      "intro": "Hiểu hai đặc điểm này sẽ giải thích rất nhiều thứ bạn gặp sau này: vì sao word order quan trọng, vì sao function words bị nuốt, và vì sao học từng từ rời làm câu nói thiếu tự nhiên.",
+      "blocks": [
+        {"type":"concept","title":"Analytic language","body":"Tiếng Anh hiện đại dùng **word order + helper words** rất mạnh để biểu đạt quan hệ ngữ pháp. Vì vậy vị trí từ thường mang thông tin ngữ pháp quan trọng."},
+        {"type":"concept","title":"Stress-timed tendency","body":"Các âm tiết mang trọng âm có xu hướng tạo nhịp; phần giữa chúng bị nén lại. Vì vậy **What are you going to do?** trong speech tự nhiên nghe ngắn hơn nhiều so với cách đọc từng từ."},
+        {"type":"concept","title":"Collocation is hidden grammar","body":"Người bản xứ không chỉ biết nghĩa từ; họ biết từ nào **thường đi cùng nhau**: make sense, pretty busy, catch up, sounds good. Đây là phần lớn của cảm giác đúng tai."}
+      ]
+    },
+    {
+      "label": "Output",
+      "minutes": "7 min",
+      "kicker": "SPEAKING · TURN INPUT INTO YOUR LANGUAGE",
+      "title": "Your first 60-second English identity drill.",
+      "intro": "Không nhìn script hoàn chỉnh. Chỉ dùng các prompt dưới đây và cố kết thúc ý trước khi sửa lỗi.",
+      "blocks": [
+        {"type":"list","items":["Start: **Lately, I've been…**","Add a detail: **Actually, …**","Say what is normal for you: **I usually…**","Add uncertainty naturally: **I'm kind of…**","Close with: **Anyway, that's pretty much it.**"]},
+        {"type":"action","title":"Minimum output","body":"Nói 60 giây về cuộc sống hiện tại. Nói lại lần hai, cố dùng ít nhất 4 chunks của hôm nay và **không dừng lại để sửa từng lỗi**."}
+      ]
+    }
+  ],
+  "shadowing": [
+    {"text":"Actually, I've been pretty busy lately.","note":"Stress ACTUALLY lightly, then land on BUSY. Let 'I've been' stay quick."},
+    {"text":"That makes sense. Sounds good to me.","note":"Treat each reaction as one chunk. Don't separate every word."},
+    {"text":"By the way, we should catch up sometime.","note":"Keep 'by the way' light; give CATCH UP the main beat."}
+  ]
+}
