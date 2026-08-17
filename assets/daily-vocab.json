@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-08-18T00:00:00+07:00",
+  "learningPolicy": {
+    "newItemsPerDay": "10-14 useful words/chunks",
+    "rule": "Prefer high-frequency conversational English, collocations and chunks over rare vocabulary."
+  },
+  "lessons": [
+    {
+      "day": 1,
+      "date": "2026-08-18",
+      "topic": "Think in chunks, not translated words",
+      "lessonPath": "assets/lessons/day-001.json",
+      "vocabPath": "assets/vocabulary/2026-08-18.json"
+    }
+  ]
+}
