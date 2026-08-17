@@ -1,0 +1,91 @@
+{
+  "title": "English Theory Atlas",
+  "description": "A structured map from basic grammar to the systems that make English sound natural, coherent and socially appropriate.",
+  "domains": [
+    {
+      "name": "Grammar Architecture",
+      "icon": "01",
+      "description": "How English builds phrases, clauses and viewpoints.",
+      "topics": [
+        {"name":"Sentence spine & word order","level":"Foundation","note":"Subject, verb, objects, complements and why position carries meaning."},
+        {"name":"Word classes & phrase structure","level":"Foundation","note":"Nouns, verbs, adjectives, adverbs, determiners, prepositions and how they form phrases."},
+        {"name":"Nouns, countability & number","level":"Foundation","note":"How English packages things as countable, uncountable, singular, plural and collective."},
+        {"name":"Articles & determiners","level":"Core","note":"a/an, the, zero article, this/that, some/any and shared knowledge."},
+        {"name":"Pronouns & reference","level":"Core","note":"Personal, reflexive, demonstrative and indefinite reference across conversation."},
+        {"name":"Tense & aspect","level":"Core","note":"Present, past, perfect and progressive as viewpoint systems — not only time labels."},
+        {"name":"Future meanings","level":"Core","note":"will, be going to, present continuous, present simple and modal ways to frame the future."},
+        {"name":"Modality","level":"Core","note":"Ability, obligation, permission, advice, probability and speaker attitude."},
+        {"name":"Questions & negation","level":"Core","note":"Auxiliary movement, do-support, question types, tags and negative scope."},
+        {"name":"Comparison & degree","level":"Core","note":"Comparatives, superlatives, intensifiers, downtoners and scalar meaning."},
+        {"name":"Relative & noun clauses","level":"Upper","note":"Embed descriptions and entire ideas inside larger sentences."},
+        {"name":"Conditionals","level":"Upper","note":"Real, hypothetical, counterfactual and mixed realities beyond 0/1/2/3 formulas."},
+        {"name":"Passive voice","level":"Upper","note":"Move attention from agent to event, result or affected entity."},
+        {"name":"Reported speech","level":"Upper","note":"Represent another voice with shifts in tense, deixis and stance."},
+        {"name":"Gerunds, infinitives & participles","level":"Upper","note":"Non-finite verb forms and the different ways English packages actions."},
+        {"name":"Emphasis, inversion & advanced syntax","level":"Advanced","note":"Clefts, fronting, inversion, ellipsis and marked word order for focus and style."}
+      ]
+    },
+    {
+      "name": "Sound & Pronunciation",
+      "icon": "02",
+      "description": "How spoken English is physically produced and compressed in real time.",
+      "topics": [
+        {"name":"IPA & phonemes","level":"Foundation","note":"Map English vowel and consonant contrasts so spelling stops controlling pronunciation."},
+        {"name":"Syllables & word stress","level":"Foundation","note":"Primary/secondary stress, stress shifts and why wrong stress blocks recognition."},
+        {"name":"Schwa & weak vowels","level":"Core","note":"The central reduced vowel that powers natural English rhythm."},
+        {"name":"Sentence stress","level":"Core","note":"Prominence marks content, contrast and new information."},
+        {"name":"Connected speech","level":"Core","note":"Linking, assimilation, elision and resyllabification across word boundaries."},
+        {"name":"Weak forms & reductions","level":"Core","note":"Why function words shrink and common sequences compress in fluent speech."},
+        {"name":"Rhythm","level":"Upper","note":"Stress-timed tendency, timing groups and how unstressed material is squeezed."},
+        {"name":"Intonation","level":"Upper","note":"Pitch movement signals completeness, attitude, contrast, politeness and involvement."},
+        {"name":"Accent flexibility","level":"Advanced","note":"Build perception across major native and international English accents without copying one identity blindly."}
+      ]
+    },
+    {
+      "name": "Vocabulary & Meaning",
+      "icon": "03",
+      "description": "Why knowing a word means far more than knowing its translation.",
+      "topics": [
+        {"name":"High-frequency vocabulary","level":"Foundation","note":"Prioritize words with broad conversational usefulness and deep mastery."},
+        {"name":"Chunks & formulaic language","level":"Foundation","note":"Store ready-made sequences by communicative function for faster retrieval."},
+        {"name":"Collocation","level":"Core","note":"Natural word partnerships such as make sense, heavy rain and deeply concerned."},
+        {"name":"Word families & morphology","level":"Core","note":"Roots, prefixes, suffixes, derivation and conversion between word classes."},
+        {"name":"Phrasal verbs & particles","level":"Core","note":"Understand particle imagery rather than memorizing thousands of disconnected definitions."},
+        {"name":"Polysemy & semantic networks","level":"Upper","note":"Connect multiple senses of one word around a core conceptual meaning."},
+        {"name":"Idioms & metaphor","level":"Upper","note":"Use conventional figurative language selectively and understand conceptual metaphors."},
+        {"name":"Register & connotation","level":"Advanced","note":"Choose words by relationship, context, emotional coloring and level of formality."}
+      ]
+    },
+    {
+      "name": "Discourse & Pragmatics",
+      "icon": "04",
+      "description": "The hidden social system behind natural conversation.",
+      "topics": [
+        {"name":"Speech acts","level":"Core","note":"Requests, offers, invitations, apologies, refusals and promises as social actions."},
+        {"name":"Turn-taking","level":"Core","note":"Enter, hold, yield and reclaim the conversational floor naturally."},
+        {"name":"Conversation repair","level":"Core","note":"Clarify, check understanding, reformulate and recover from mishearing."},
+        {"name":"Discourse markers","level":"Core","note":"well, actually, anyway, so, I mean and other navigation signals."},
+        {"name":"Cohesion & coherence","level":"Upper","note":"Make ideas connect through reference, lexical chains, logical relations and information flow."},
+        {"name":"Information structure","level":"Upper","note":"Old/new information, topic/focus and how stress and word order guide attention."},
+        {"name":"Politeness & softening","level":"Upper","note":"Manage directness, social distance and face using modal, lexical and intonational choices."},
+        {"name":"Implicature & indirect meaning","level":"Advanced","note":"Understand what is meant beyond what is literally said."},
+        {"name":"Hedging, stance & nuance","level":"Advanced","note":"Signal certainty, evidence, evaluation and commitment without sounding absolute."}
+      ]
+    },
+    {
+      "name": "Fluency & Skill Systems",
+      "icon": "05",
+      "description": "Turn knowledge into automatic comprehension and expression.",
+      "topics": [
+        {"name":"Listening bottom-up","level":"Foundation","note":"Decode sounds, word boundaries, reductions and grammatical cues."},
+        {"name":"Listening top-down","level":"Core","note":"Use context, prediction and world knowledge without guessing blindly."},
+        {"name":"Shadowing & imitation","level":"Core","note":"Synchronize perception and speech to train rhythm, linking and automatic chunks."},
+        {"name":"Spontaneous speaking","level":"Core","note":"Plan meaning in small units, buy time naturally and finish thoughts before self-editing."},
+        {"name":"Paraphrase & circumlocution","level":"Upper","note":"Keep communicating when the exact word is unavailable."},
+        {"name":"Storytelling & long turns","level":"Upper","note":"Organize setup, sequence, detail, evaluation and conclusion for sustained speech."},
+        {"name":"Authentic input mining","level":"Upper","note":"Turn podcasts, videos and conversations into reusable chunks and pronunciation models."},
+        {"name":"English inner voice","level":"Advanced","note":"Move routine planning, self-talk, reactions and recall into English to reduce translation dependence."}
+      ]
+    }
+  ]
+}
