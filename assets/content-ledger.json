@@ -1,36 +1,53 @@
 {
   "schemaVersion": 1,
   "purpose": "Compact cumulative ledger used to review prior learning before publishing each new immutable daily package.",
-  "lastReviewedDay": 1,
+  "lastReviewedDay": 2,
   "days": [
     {
       "day": 1,
       "date": "2026-08-18",
       "topic": "Think in chunks, not translated words",
-      "coreMentalModels": [
-        "Fluent retrieval works better with reusable chunks than word-by-word translation",
-        "Build an English sentence spine before adding detail",
-        "Grammar choices encode viewpoint, not only time"
-      ],
-      "soundFocus": ["sentence stress", "content words carry prominent beats", "function words are often reduced in natural speech"],
-      "grammarFocus": ["explicit subject-verb sentence spine", "grammar as viewpoint"],
-      "pragmaticsDiscourseFocus": ["short reaction chunks maintain conversational flow", "acknowledging versus fully agreeing", "using discourse markers to transition"],
-      "languageSystemFocus": ["English relies strongly on word order and helper words", "stress-timed tendency", "collocation as part of language knowledge"],
-      "introducedItems": ["actually", "pretty", "kind of", "I mean", "make sense", "fair enough", "sounds good", "by the way", "lately", "usually", "catch up", "no worries"],
-      "introducedChunks": ["Actually, I was thinking…", "That makes sense.", "Yeah, fair enough.", "Sounds good to me.", "By the way, did you…?", "I've been busy lately.", "I usually just…", "We should catch up sometime.", "No worries at all."],
+      "coreMentalModels": ["Fluent retrieval works better with reusable chunks than word-by-word translation","Build an English sentence spine before adding detail","Grammar choices encode viewpoint, not only time"],
+      "soundFocus": ["sentence stress","content words carry prominent beats","function words are often reduced in natural speech"],
+      "grammarFocus": ["explicit subject-verb sentence spine","grammar as viewpoint"],
+      "pragmaticsDiscourseFocus": ["short reaction chunks maintain conversational flow","acknowledging versus fully agreeing","using discourse markers to transition"],
+      "languageSystemFocus": ["English relies strongly on word order and helper words","stress-timed tendency","collocation as part of language knowledge"],
+      "introducedItems": ["actually","pretty","kind of","I mean","make sense","fair enough","sounds good","by the way","lately","usually","catch up","no worries"],
+      "introducedChunks": ["Actually, I was thinking…","That makes sense.","Yeah, fair enough.","Sounds good to me.","By the way, did you…?","I've been busy lately.","I usually just…","We should catch up sometime.","No worries at all."],
       "intentionallyReviewedItems": [],
       "spokenOutput": "60 seconds about current life using at least four Day 1 chunks",
       "retrievalSchedule": [
-        {"targetDay": 2, "goal": "reuse 2–3 reaction/discourse chunks during self-introduction"},
-        {"targetDay": 4, "goal": "retrieve sentence spine and chunk principle in a relationship context"},
-        {"targetDay": 8, "goal": "retrieve Day 1 chunks without a word list"},
-        {"targetDay": 15, "goal": "contrast 'lately' with present-perfect viewpoint"},
-        {"targetDay": 31, "goal": "reuse reductions/rhythm with familiar Day 1 sentences"}
+        {"targetDay":2,"goal":"reuse 2–3 reaction/discourse chunks during self-introduction"},
+        {"targetDay":4,"goal":"retrieve sentence spine and chunk principle in a relationship context"},
+        {"targetDay":8,"goal":"retrieve Day 1 chunks without a word list"},
+        {"targetDay":15,"goal":"contrast 'lately' with present-perfect viewpoint"},
+        {"targetDay":31,"goal":"reuse reductions/rhythm with familiar Day 1 sentences"}
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-08-19",
+      "topic": "Introduce yourself without sounding scripted",
+      "coreMentalModels": ["A self-introduction is selected information shaped for the audience, not a complete biography","Create conversation hooks through relevant specificity","Build flexible 10-, 30-, and 60-second versions instead of memorizing one script"],
+      "soundFocus": ["thought groups as meaning units","natural use of common contractions","prominence on information-bearing words inside an introduction"],
+      "grammarFocus": ["simple forms for relatively stable identity facts","ongoing frames for the current chapter of life","preview only: present continuous/present-perfect frames will be taught deeply on their roadmap days"],
+      "pragmaticsDiscourseFocus": ["reciprocal turn-taking with 'What about you?'","specific details create response hooks","accurate identity framing without overclaiming expertise","self-repair using 'I mean'"],
+      "languageSystemFocus": ["identity is packaged differently depending on discourse relevance","grammatical framing changes what aspect of identity becomes foregrounded","conversation distributes the floor between speakers"],
+      "introducedItems": ["be based in","work in","mainly","involve","outside of work","be into","these days","focus on","What about you?"],
+      "introducedChunks": ["I'm based in…","I work mainly on…","Most of my work involves…","Outside of work, I'm really into…","These days, I'm focusing on…","What about you?"],
+      "intentionallyReviewedItems": ["actually","I mean","by the way"],
+      "spokenOutput": "10-, 30-, and 60-second self-introductions; final version for a new international colleague with reciprocal handoff",
+      "retrievalSchedule": [
+        {"targetDay":3,"goal":"reuse 'usually' plus Day 2 identity frames while describing routines"},
+        {"targetDay":5,"goal":"reuse 'What about you?' and thought groups while making plans"},
+        {"targetDay":9,"goal":"retrieve work/interest introduction hooks without a script"},
+        {"targetDay":16,"goal":"contrast stable identity with future plans/arrangements"},
+        {"targetDay":36,"goal":"reuse Day 2 introduction architecture in workplace greetings"}
       ]
     }
   ],
   "inventory": {
-    "allIntroducedItems": ["actually", "pretty", "kind of", "I mean", "make sense", "fair enough", "sounds good", "by the way", "lately", "usually", "catch up", "no worries"],
-    "conceptsCovered": ["chunk-based retrieval", "sentence stress", "sentence spine", "grammar as viewpoint", "reaction chunks", "analytic structure", "stress-timed tendency", "collocation"]
+    "allIntroducedItems": ["actually","pretty","kind of","I mean","make sense","fair enough","sounds good","by the way","lately","usually","catch up","no worries","be based in","work in","mainly","involve","outside of work","be into","these days","focus on","What about you?"],
+    "conceptsCovered": ["chunk-based retrieval","sentence stress","sentence spine","grammar as viewpoint","reaction chunks","analytic structure","stress-timed tendency","collocation","audience-shaped self-introduction","thought groups","contractions","stable identity vs current chapter","reciprocal turn-taking","information packaging","conversation hooks"]
   }
 }

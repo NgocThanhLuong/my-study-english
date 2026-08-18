@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-19",
+  "day": 2,
+  "title": "Day 2 Diagnostic — Introduce yourself without a script",
+  "purpose": "Kiểm tra khả năng chọn thông tin, đóng gói identity, dùng thought groups/chunks và trao lượt nói — không kiểm tra học thuộc một đoạn giới thiệu.",
+  "passPercent": 80,
+  "questions": [
+    {"id":"d2-q1","skill":"pragmatics","prompt":"You meet another engineer for the first time. Which opening gives useful information and a natural conversation hook?","options":["My name is Lương. I am a person. I have many hobbies.","I work. I like technology. Thank you.","I'm based in Vietnam and I work mainly on backend integrations. These days, I'm also building AI projects.","I am backend integration software person from many years."],"answer":2,"explanation":"A natural introduction selects relevant identity information and gives a specific hook the listener can respond to."},
+    {"id":"d2-q2","skill":"grammar & meaning","prompt":"Which sentence best presents a relatively stable professional domain?","options":["I work in software integration.","I'm working in software integration yesterday.","I've work in software integration.","I working software integration."],"answer":0,"explanation":"Present Simple naturally frames a current role/domain as a relatively stable fact: 'I work in…'."},
+    {"id":"d2-q3","skill":"pronunciation","prompt":"What is the best speaking strategy for: “I'm based in Vietnam and I work in software integration”?","options":["Give every syllable exactly the same weight.","Pause after every single word.","Speak it as one breath with no grouping.","Use thought groups, for example: 'I'm based in Vietnam / and I work in software integration.'"],"answer":3,"explanation":"Thought groups package meaning into listener-friendly units. The slash represents a light boundary, not a dramatic pause."},
+    {"id":"d2-q4","skill":"usage","prompt":"You want to explain what your job actually consists of, not just name the field. Which frame is most useful?","options":["My work is title.","Most of my work involves connecting different systems.","I am involving work.","My work contains job."],"answer":1,"explanation":"'My work involves + noun/V-ing' is a natural frame for describing the activities a role includes."},
+    {"id":"d2-q5","skill":"discourse","prompt":"After a 30-second introduction, which move most naturally turns the monologue into a conversation?","options":["Continue listing every project you have done.","Repeat your job title more slowly.","Ask 'What about you?' and listen to the answer.","End with 'That's all information.'"],"answer":2,"explanation":"'What about you?' redistributes the floor and creates reciprocity, a core feature of conversational introductions."},
+    {"id":"d2-q6","skill":"retrieval","prompt":"You realize your first description was too broad: “I work in security systems…” Which Day 1 chunk helps you refine the statement naturally?","options":["I mean, mostly software integration.","Fair enough, mostly software integration.","No worries, mostly software integration.","Sounds good, mostly software integration."],"answer":0,"explanation":"'I mean' supports self-repair and clarification. This is intentional Day 1 retrieval in a new context."},
+    {"id":"d2-q7","skill":"semantics","prompt":"What is the key difference between “I'm into AI” and “I'm an AI expert”?","options":["There is no difference.","'I'm into AI' can express interest without claiming expertise.","'I'm into AI' is always formal business English.","'I'm an AI expert' only means you enjoy AI."],"answer":1,"explanation":"'Be into' normally expresses interest/enthusiasm. It does not by itself claim professional expertise."}
+  ],
+  "spokenChallenge": {
+    "prompt": "Record a 60-second introduction for meeting a new international colleague. Include your work/domain, one current focus, one personal interest, one specific hook, and end by giving the other person a turn. Use one Day 1 discourse marker only if it genuinely helps the flow.",
+    "rubric": [
+      {"criterion":"relevance","max":2},
+      {"criterion":"thought groups & clarity","max":2},
+      {"criterion":"natural chunks","max":2},
+      {"criterion":"reciprocity","max":2},
+      {"criterion":"personalization","max":2}
+    ],
+    "maxScore": 10
+  }
+}

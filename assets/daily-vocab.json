@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-08-18T01:20:00+07:00",
+  "updatedAt": "2026-08-19T06:00:00+07:00",
   "contentPolicyPath": "assets/content-policy.json",
   "learningPolicy": {
     "newItemsPerDay": "10-14 useful words/chunks",
@@ -14,6 +14,14 @@
       "lessonPath": "assets/lessons/day-001.json",
       "vocabPath": "assets/vocabulary/2026-08-18.json",
       "testPath": "assets/tests/2026-08-18.json"
+    },
+    {
+      "day": 2,
+      "date": "2026-08-19",
+      "topic": "Introduce yourself without sounding scripted",
+      "lessonPath": "assets/lessons/day-002.json",
+      "vocabPath": "assets/vocabulary/2026-08-19.json",
+      "testPath": "assets/tests/2026-08-19.json"
     }
   ]
 }

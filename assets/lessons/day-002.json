@@ -1,0 +1,126 @@
+{
+  "day": 2,
+  "date": "2026-08-19",
+  "phase": "Foundation & Identity",
+  "topic": "Introduce yourself without sounding scripted",
+  "title": "Introduce yourself like a real person",
+  "subtitle": "Ngày 2 · Không đọc một bản CV bằng miệng. Chọn thông tin có ích cho người nghe, nói theo thought groups và mở đường cho hội thoại tiếp tục.",
+  "sections": [
+    {
+      "label": "Retrieve",
+      "minutes": "5 min",
+      "kicker": "RETRIEVAL · DAY 1 → DAY 2",
+      "title": "React first, then introduce yourself.",
+      "intro": "Trước khi học mới, gọi lại Day 1: một cuộc giới thiệu tự nhiên vẫn dùng những chunk nhỏ để giữ nhịp và điều chỉnh ý.",
+      "blocks": [
+        {"type":"action","title":"No-look retrieval","body":"Không mở Day 1. Tự nói 3 câu ngắn có **actually**, **I mean** hoặc **by the way**. Sau đó tưởng tượng người kia nói “I work in backend too.” và phản ứng bằng một chunk đã học trước khi kể tiếp về mình."},
+        {"type":"examples","items":[
+          {"en":"Actually, I work mostly on backend systems.","vi":"actually = điều chỉnh/định vị lại thông tin, không phải từ trang trí."},
+          {"en":"I mean, most of my work is integration work.","vi":"I mean = tự sửa hoặc làm rõ điều vừa nói."},
+          {"en":"By the way, what kind of projects do you work on?","vi":"by the way = chuyển nhánh nhẹ nhàng sang người đối thoại."}
+        ]}
+      ]
+    },
+    {
+      "label": "Mental model",
+      "minutes": "7 min",
+      "kicker": "IDENTITY · INFORMATION PACKAGING",
+      "title": "A good introduction is selected, not complete.",
+      "intro": "Giới thiệu bản thân không phải kể mọi thứ mình biết về mình. Người nói chọn vài mảnh thông tin phù hợp với người nghe và tình huống.",
+      "blocks": [
+        {"type":"concept","title":"Audience-shaped identity","body":"Trong networking, bạn có thể ưu tiên **what you do + what you care about + one human detail**. Với người bạn mới, có thể ưu tiên **where you're from + what you're into + what life looks like these days**. Cùng một con người, nhưng cách đóng gói thông tin thay đổi theo context."},
+        {"type":"compare","leftLabel":"Scripted résumé mode","left":"My name is… I am … years old. My hobby is…","rightLabel":"Conversation mode","right":"I'm based in… I work in… Outside of work, I'm really into…"},
+        {"type":"list","items":[
+          "Mở bằng **2–3 pieces of relevant information**, không phải 8 facts liên tiếp.",
+          "Dùng một chi tiết cụ thể để người nghe có chỗ hỏi tiếp.",
+          "Kết thúc bằng **What about you? / How about you?** để biến monologue thành conversation."
+        ]}
+      ]
+    },
+    {
+      "label": "Sound",
+      "minutes": "8 min",
+      "kicker": "PRONUNCIATION · THOUGHT GROUPS & CONTRACTIONS",
+      "title": "Speak in meaning groups, not one long stream.",
+      "intro": "Khi tự giới thiệu, người nghe cần các cụm ý rõ ràng. Thought groups giúp cả nhịp nói và khả năng hiểu tốt hơn.",
+      "blocks": [
+        {"type":"concept","title":"Chunk the message","body":"Thử chia: **I'm based in Vietnam / and I work in software integration / mostly backend systems.** Mỗi dấu “/” là một thought group nhỏ. Bạn không cần ngắt lâu; chỉ cần cho người nghe cảm giác từng đơn vị ý nghĩa."},
+        {"type":"concept","title":"Contractions carry natural rhythm","body":"Trong speech trung tính, **I'm / I've / I'd / that's** rất phổ biến. Dùng contraction giúp câu bớt kiểu đọc sách, nhưng đừng ép âm quá nhanh. Mục tiêu là rõ và tự nhiên, không phải bắt chước một accent duy nhất."},
+        {"type":"examples","items":[
+          {"en":"I'm BASED in Vietnam / and I WORK in software integration.","vi":"Các từ nội dung chính nhận prominence; thought groups tách hai ý."},
+          {"en":"I've been WORKING on access-control integrations lately.","vi":"I've thường nhẹ; WORKING và INTEGRATIONS mang nhiều thông tin hơn."},
+          {"en":"Outside of WORK / I'm really into LEARNING languages.","vi":"Đổi thought group khi chuyển từ work sang personal detail."}
+        ]},
+        {"type":"action","title":"Rhythm drill","body":"Đọc 3 câu trên 3 vòng: (1) chậm và chia thought groups, (2) dùng contractions tự nhiên, (3) giữ prominence ở từ mang thông tin chính."}
+      ]
+    },
+    {
+      "label": "Grammar logic",
+      "minutes": "8 min",
+      "kicker": "GRAMMAR · IDENTITY VS CURRENT CHAPTER",
+      "title": "Choose grammar by the kind of self you are describing.",
+      "intro": "Tự giới thiệu thường trộn những thứ khá ổn định với những thứ thuộc “chương hiện tại” của cuộc sống.",
+      "blocks": [
+        {"type":"concept","title":"Stable identity → simple forms","body":"Dùng **I work in… / I live in… / I enjoy… / I'm based in…** khi bạn trình bày fact, role hoặc preference như một phần tương đối ổn định của hiện tại."},
+        {"type":"concept","title":"Current chapter → ongoing frame","body":"Các frame như **I'm working on… / I've been focusing on…** cho người nghe cảm giác “đây là điều đang chiếm chỗ trong cuộc sống hiện tại”. Hôm nay chỉ dùng chúng như ready-made frames; Present Continuous và Present Perfect sẽ được giải thích sâu ở các ngày roadmap riêng."},
+        {"type":"examples","items":[
+          {"en":"I work in software integration.","vi":"Role/domain tương đối ổn định."},
+          {"en":"I'm working on a video-agent project at the moment.","vi":"Project thuộc giai đoạn hiện tại."},
+          {"en":"I've been focusing more on English lately.","vi":"Một xu hướng kéo tới hiện tại; full present-perfect viewpoint sẽ học sâu sau."}
+        ]}
+      ]
+    },
+    {
+      "label": "Native chunks",
+      "minutes": "8 min",
+      "kicker": "PRAGMATICS · SOUND HUMAN, NOT IMPRESSIVE",
+      "title": "Give hooks, not a performance.",
+      "intro": "Một self-introduction tốt tạo “hooks” để người kia dễ phản hồi. Nó không cần vocabulary phức tạp.",
+      "blocks": [
+        {"type":"examples","items":[
+          {"en":"I'm based in Hanoi.","vi":"Nêu nơi đang sống/làm việc; không nhất thiết là quê gốc."},
+          {"en":"I work mainly on backend and integration systems.","vi":"mainly giúp thu hẹp domain tự nhiên."},
+          {"en":"Most of my work involves connecting different systems.","vi":"involves + V-ing giúp mô tả công việc cụ thể hơn chức danh."},
+          {"en":"Outside of work, I'm really into learning languages.","vi":"Chuyển từ professional identity sang human detail."},
+          {"en":"These days, I'm trying to make English part of my daily life.","vi":"these days = current chapter, rất hữu ích cho small talk."},
+          {"en":"What about you?","vi":"Trao lượt nói lại; self-introduction trở thành interaction."}
+        ]},
+        {"type":"concept","title":"Don't overclaim closeness or expertise","body":"**I'm into X** thường chỉ nói bạn thích/quan tâm X, không có nghĩa bạn là expert. **I work in X** nói domain; **I work as X** thường nêu role/job title. Chọn frame đúng giúp identity nghe chính xác hơn."}
+      ]
+    },
+    {
+      "label": "Deep English",
+      "minutes": "6 min",
+      "kicker": "LANGUAGE LAB · IDENTITY IS DISCOURSE",
+      "title": "English introductions are built around relevance and turn-taking.",
+      "intro": "Ngôn ngữ không chỉ encode facts; nó còn tổ chức quan hệ giữa người nói và người nghe.",
+      "blocks": [
+        {"type":"concept","title":"Information packaging","body":"Cùng một fact có thể được đóng gói khác nhau: **I'm a backend engineer** đặt role làm nhãn; **I work mostly on backend systems** đặt activity làm trọng tâm. Hai câu không chỉ khác từ — chúng chọn hai cách nhìn identity."},
+        {"type":"concept","title":"Reciprocity","body":"Trong conversation, một introduction dài không cho người kia chỗ tham gia dễ tạo cảm giác interview hoặc presentation. Các câu như **What about you? / How did you get into that?** phân phối lượt nói và tạo social balance."},
+        {"type":"concept","title":"Specificity creates hooks","body":"**I like technology** khó phản hồi hơn **I'm really into AI agents and backend architecture.** Chi tiết vừa đủ làm tăng khả năng người nghe tìm được điểm chung hoặc câu hỏi tiếp theo."}
+      ]
+    },
+    {
+      "label": "Output",
+      "minutes": "8 min",
+      "kicker": "SPEAKING · BUILD A FLEXIBLE INTRO",
+      "title": "Create three versions of yourself, not one memorized script.",
+      "intro": "Bạn cần một hệ thống linh hoạt, không phải một đoạn văn thuộc lòng.",
+      "blocks": [
+        {"type":"list","items":[
+          "**10-second version:** name/role + one hook.",
+          "**30-second version:** role/domain + current focus + one personal detail.",
+          "**60-second version:** thêm một câu “why it matters to me”, rồi trao lượt bằng **What about you?**",
+          "Ở ít nhất một version, gọi lại **actually / I mean / by the way** như Day 1 retrieval, nhưng chỉ dùng khi chức năng discourse phù hợp."
+        ]},
+        {"type":"action","title":"Personal mission","body":"Nói 3 version không nhìn script hoàn chỉnh. Version cuối phải có: **I'm based in… / I work… / These days… / Outside of work… / What about you?** theo cách thật với cuộc sống của bạn. Ghi âm lần 1, nghe lại, rồi chỉ sửa **một** điểm: rhythm, clarity hoặc natural chunking."}
+      ]
+    }
+  ],
+  "shadowing": [
+    {"text":"I'm based in Vietnam, and I work mainly on backend integration systems.","note":"Chia sau Vietnam; giữ I'M nhẹ và cho BACKEND / INTEGRATION prominence vừa đủ."},
+    {"text":"These days, I'm focusing more on English and building AI projects.","note":"THESE DAYS mở current chapter; không cần nhấn mọi từ như nhau."},
+    {"text":"Outside of work, I'm really into learning languages. What about you?","note":"Tách hai thought groups; câu hỏi cuối nên nghe như lời mời người kia tham gia."},
+    {"text":"Actually, most of my work involves connecting different systems.","note":"Retrieval Day 1: ACTUALLY dùng để refine, không phải filler bắt buộc."}
+  ]
+}
