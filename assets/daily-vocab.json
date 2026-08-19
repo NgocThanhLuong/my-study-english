@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-08-19T06:00:00+07:00",
+  "updatedAt": "2026-08-20T06:03:00+07:00",
   "contentPolicyPath": "assets/content-policy.json",
   "learningPolicy": {
     "newItemsPerDay": "10-14 useful words/chunks",
@@ -22,6 +22,14 @@
       "lessonPath": "assets/lessons/day-002.json",
       "vocabPath": "assets/vocabulary/2026-08-19.json",
       "testPath": "assets/tests/2026-08-19.json"
+    },
+    {
+      "day": 3,
+      "date": "2026-08-20",
+      "topic": "Daily routines & frequency",
+      "lessonPath": "assets/lessons/day-003.json",
+      "vocabPath": "assets/vocabulary/2026-08-20.json",
+      "testPath": "assets/tests/2026-08-20.json"
     }
   ]
 }

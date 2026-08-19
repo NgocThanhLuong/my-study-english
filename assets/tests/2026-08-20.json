@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-20",
+  "day": 3,
+  "title": "Day 3 Diagnostic — Daily routines & frequency",
+  "purpose": "Kiểm tra khả năng mô tả pattern thật, chọn mức tần suất hợp lý, đặt frequency language tự nhiên và chuyển kiến thức Day 1–2 vào routine speech.",
+  "passPercent": 80,
+  "questions": [
+    {"id":"d3-q1","skill":"retrieval","prompt":"Which sentence correctly reuses a Day 1 item to describe a habit?","options":["I usually start work around eight.","I start usually work around eight.","Usually I am start work around eight.","I usual start work around eight."],"answer":0,"explanation":"'Usually' was introduced on Day 1. With a lexical verb such as 'start', a very common position is before the verb: 'I usually start…'."},
+    {"id":"d3-q2","skill":"meaning","prompt":"Your morning routine happens on many days but not all of them. Which opening is most appropriately non-absolute?","options":["I never start early.","Most days, I start early.","I always start early, except many days.","I must start early."],"answer":1,"explanation":"'Most days' describes a strong pattern without claiming that there are no exceptions."},
+    {"id":"d3-q3","skill":"grammar & viewpoint","prompt":"Why is Present Simple useful in 'I start work at eight' when describing a routine?","options":["It means the action is happening at this exact second.","It frames the action as part of the normal/repeated picture.","It always describes the distant past.","It means the action happened only once."],"answer":1,"explanation":"In routine talk, Present Simple presents an event as a regular pattern or current fact, not as an event currently unfolding."},
+    {"id":"d3-q4","skill":"frequency scale","prompt":"You almost never skip breakfast, but it has happened once or twice. Which wording is the best fit?","options":["I always skip breakfast.","I hardly ever skip breakfast.","I skip breakfast every day.","I never eat anything ever."],"answer":1,"explanation":"'Hardly ever' communicates very low frequency without making the absolute claim carried by 'never'."},
+    {"id":"d3-q5","skill":"pronunciation/listening","prompt":"When saying a routine sentence naturally, which strategy is most useful?","options":["Give every syllable equal weight.","Delete all small words completely.","Listen for and produce prominent content words while keeping smaller function words lighter.","Speak as fast as possible even if clarity drops."],"answer":2,"explanation":"English speech often gives more prominence to information-bearing words. Smaller function words may be lighter, but clarity remains the goal."},
+    {"id":"d3-q6","skill":"usage","prompt":"Which sentence naturally describes finally finding time for something you had been meaning to do?","options":["I get around reading.","I get around to reading in the evening.","I around to read.","I am get to around reading."],"answer":1,"explanation":"'Get around to' is followed by a noun or V-ing: 'get around to reading'. It often implies the action was delayed."},
+    {"id":"d3-q7","skill":"discourse transfer","prompt":"Which sentence best connects Day 2 work identity with today's routine topic?","options":["I work mainly on backend systems, so I usually start with focused work before checking messages.","I backend mainly and routine work.","What about you backend every day always?","Actually work is usually identity systems."],"answer":0,"explanation":"The sentence retrieves the Day 2 frame 'I work mainly on…' and naturally extends it with today's habit frame 'I usually…'."},
+    {"id":"d3-q8","skill":"semantics/pragmatics","prompt":"Why can 'usually' or 'often' be more useful than an exact percentage in everyday conversation?","options":["Because English speakers cannot count.","Because these words efficiently communicate a perceived pattern when exact measurement is unnecessary.","Because frequency words always mean the same percentage.","Because exact numbers are grammatically incorrect."],"answer":1,"explanation":"Frequency adverbs are intentionally approximate. Their job is often to convey a useful pattern, not a measured statistic."}
+  ],
+  "spokenChallenge": {
+    "prompt": "Speak for 90 seconds about a typical workday. Use at least three different frequency expressions, reuse one Day 2 work/identity frame, explain why one habit matters to you, and include one genuine exception to your normal routine.",
+    "rubric": [
+      {"criterion":"frequency range","max":2},
+      {"criterion":"grammar as habit viewpoint","max":2},
+      {"criterion":"rhythm & clarity","max":2},
+      {"criterion":"retrieval from earlier days","max":2},
+      {"criterion":"personalization & continuity","max":2}
+    ],
+    "maxScore": 10
+  }
+}

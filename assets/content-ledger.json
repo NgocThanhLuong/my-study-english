@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "purpose": "Compact cumulative ledger used to review prior learning before publishing each new immutable daily package.",
-  "lastReviewedDay": 2,
+  "lastReviewedDay": 3,
   "days": [
     {
       "day": 1,
@@ -44,10 +44,31 @@
         {"targetDay":16,"goal":"contrast stable identity with future plans/arrangements"},
         {"targetDay":36,"goal":"reuse Day 2 introduction architecture in workplace greetings"}
       ]
+    },
+    {
+      "day": 3,
+      "date": "2026-08-20",
+      "topic": "Daily routines & frequency",
+      "coreMentalModels": ["A routine is a recurring pattern, not a perfect timetable","Frequency is a graded scale rather than only always versus never","Describe the normal pattern first and then meaningful exceptions"],
+      "soundFocus": ["prominence in routine chains","lighter function words in connected speech","preview of weak forms without forcing accent imitation","reuse of thought groups from Day 2"],
+      "grammarFocus": ["Present Simple as a habit/current-pattern viewpoint preview","frequency adverb placement before lexical verbs and after be","frequency phrases at clause edges","full Present Simple system reserved for Day 11"],
+      "pragmaticsDiscourseFocus": ["approximate frequency can be more honest than false precision","routine talk reveals lifestyle and priorities","pattern plus exception creates more conversational detail"],
+      "languageSystemFocus": ["frequency adverbs have scalar/fuzzy semantics","ordinary language efficiently represents patterns without exact measurement","habit descriptions also function as identity signals"],
+      "introducedItems": ["most days","tend to","every now and then","hardly ever","once or twice a week","first thing","on my way to","get around to","wind down","stick to","end up"],
+      "introducedChunks": ["Most days, I…","I tend to + verb","Every now and then, I…","I hardly ever + verb","once or twice a week","first thing in the morning","on my way to work","get around to + V-ing","wind down with/by…","stick to a routine","end up + V-ing"],
+      "intentionallyReviewedItems": ["usually","work in","mainly","I work mainly on…","thought groups"],
+      "spokenOutput": "90 seconds about a typical workday using at least three frequency levels, one Day 2 identity frame, one reason for a habit, and one genuine exception",
+      "retrievalSchedule": [
+        {"targetDay":4,"goal":"reuse one routine/frequency phrase naturally while describing time with family or friends"},
+        {"targetDay":6,"goal":"reuse 'usually', 'most days', and 'hardly ever' in food/café habits"},
+        {"targetDay":10,"goal":"retrieve two Day 3 frequency expressions during unscripted small talk"},
+        {"targetDay":11,"goal":"connect Day 3 habit examples to the full Present Simple form-meaning-use system"},
+        {"targetDay":30,"goal":"reuse familiar routine sentences to notice linking and connected speech"}
+      ]
     }
   ],
   "inventory": {
-    "allIntroducedItems": ["actually","pretty","kind of","I mean","make sense","fair enough","sounds good","by the way","lately","usually","catch up","no worries","be based in","work in","mainly","involve","outside of work","be into","these days","focus on","What about you?"],
-    "conceptsCovered": ["chunk-based retrieval","sentence stress","sentence spine","grammar as viewpoint","reaction chunks","analytic structure","stress-timed tendency","collocation","audience-shaped self-introduction","thought groups","contractions","stable identity vs current chapter","reciprocal turn-taking","information packaging","conversation hooks"]
+    "allIntroducedItems": ["actually","pretty","kind of","I mean","make sense","fair enough","sounds good","by the way","lately","usually","catch up","no worries","be based in","work in","mainly","involve","outside of work","be into","these days","focus on","What about you?","most days","tend to","every now and then","hardly ever","once or twice a week","first thing","on my way to","get around to","wind down","stick to","end up"],
+    "conceptsCovered": ["chunk-based retrieval","sentence stress","sentence spine","grammar as viewpoint","reaction chunks","analytic structure","stress-timed tendency","collocation","audience-shaped self-introduction","thought groups","contractions","stable identity vs current chapter","reciprocal turn-taking","information packaging","conversation hooks","routine as pattern","frequency scale","habit viewpoint preview","frequency-adverb placement","approximate frequency","scalar semantics","routine rhythm"]
   }
 }

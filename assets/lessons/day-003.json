@@ -1,0 +1,127 @@
+{
+  "day": 3,
+  "date": "2026-08-20",
+  "phase": "Foundation & Identity",
+  "topic": "Daily routines & frequency",
+  "title": "Describe your real routine, not a textbook timetable",
+  "subtitle": "Ngày 3 · Học cách nói về thói quen bằng mức độ tần suất, rhythm và các routine chunks đủ tự nhiên để dùng ngay.",
+  "sections": [
+    {
+      "label": "Retrieve",
+      "minutes": "5 min",
+      "kicker": "RETRIEVAL · DAY 1–2 → DAY 3",
+      "title": "Start with what is already yours.",
+      "intro": "Hôm nay không bắt đầu từ số 0. Gọi lại một chunk Day 1 và một identity frame Day 2, rồi chuyển chúng sang routine language.",
+      "blocks": [
+        {"type":"action","title":"No-look retrieval","body":"Không mở bài cũ. Nói 3 câu thật về mình: một câu với **I usually…** (Day 1 retrieval), một câu với **I work in / I work mainly on…** (Day 2 retrieval), rồi nối chúng thành: **I work mainly on backend systems, so I usually start my day by…**"},
+        {"type":"examples","items":[
+          {"en":"I usually start work around eight-thirty.","vi":"usually đã học Day 1; hôm nay dùng lại đúng chức năng habit."},
+          {"en":"I work mainly on backend systems, so most days I spend the morning on focused work.","vi":"Day 2 identity frame được chuyển sang routine context."}
+        ]}
+      ]
+    },
+    {
+      "label": "Mental model",
+      "minutes": "7 min",
+      "kicker": "HABITS · FREQUENCY AS A SCALE",
+      "title": "A routine is a pattern, not a perfect schedule.",
+      "intro": "Khi kể routine, người nói không cần biến cuộc sống thành bảng thời khóa biểu. English thường dùng một thang tần suất mềm: what normally happens, what often happens, and what only happens sometimes.",
+      "blocks": [
+        {"type":"concept","title":"Frequency is graded, not binary","body":"Thay vì chỉ **always / never**, hãy nghĩ theo một scale: **usually → often → sometimes → every now and then → hardly ever**. Các từ này không phải phần trăm toán học cố định; chúng là cách speaker mô tả pattern theo cảm nhận."},
+        {"type":"compare","leftLabel":"Textbook timetable","left":"At 7:00 I do X. At 7:30 I do Y. At 8:00 I do Z.","rightLabel":"Real routine","right":"Most days, I start early. I usually do focused work first, and I check messages later."},
+        {"type":"list","items":[
+          "Nói **pattern trước, ngoại lệ sau**.",
+          "Dùng frequency language để thể hiện độ ổn định của thói quen.",
+          "Một routine tốt cho conversation cần **what + when/how often + why/feeling**, không chỉ liệt kê động tác."
+        ]}
+      ]
+    },
+    {
+      "label": "Sound",
+      "minutes": "8 min",
+      "kicker": "LISTENING · RHYTHM IN ROUTINE CHAINS",
+      "title": "Let the small words become small.",
+      "intro": "Trong routine speech, các từ như to, and, a thường nhẹ hơn các content words. Nếu cố phát âm mọi từ ngang nhau, câu sẽ chậm và khó bắt nhịp.",
+      "blocks": [
+        {"type":"concept","title":"Prominence first","body":"Trong **I USUALLY start WORK around EIGHT**, các từ mang ý chính nổi hơn; các từ còn lại có thể nhẹ hơn. Đây là xu hướng nhịp nói, không phải luật bắt buộc cho mọi accent."},
+        {"type":"concept","title":"Preview weak forms, don't force them","body":"Trong speech tự nhiên, **to** trong *go to work* thường yếu đi và **and** trong chuỗi hành động có thể ngắn hơn. Chỉ cần nghe được và để chúng nhẹ tự nhiên; weak forms sẽ học sâu ở Day 29."},
+        {"type":"examples","items":[
+          {"en":"I USUALLY get UP around SEVEN.","vi":"USUALLY, UP, SEVEN tạo các điểm neo nghe."},
+          {"en":"I check my EMAIL / and then I START work.","vi":"thought group giúp chuỗi routine dễ theo dõi."},
+          {"en":"I try to WIND DOWN before BED.","vi":"WIND DOWN và BED mang trọng tâm thông tin."}
+        ]},
+        {"type":"action","title":"Rhythm drill","body":"Đọc 3 câu hai vòng. Vòng 1 gõ nhịp vào content words. Vòng 2 giữ small words nhẹ, nhưng vẫn rõ và thoải mái."}
+      ]
+    },
+    {
+      "label": "Grammar logic",
+      "minutes": "8 min",
+      "kicker": "GRAMMAR · HABIT VIEWPOINT",
+      "title": "Present Simple presents routines as part of the normal picture.",
+      "intro": "Day 11 sẽ học Present Simple thật sâu. Hôm nay chỉ dùng mental model cần thiết cho routines: speaker đặt hành động vào bức tranh bình thường/lặp lại, không zoom vào một khoảnh khắc đang diễn ra.",
+      "blocks": [
+        {"type":"concept","title":"Habit viewpoint","body":"**I start work at eight** không có nghĩa hành động đang xảy ra ngay lúc nói. Nó đặt *start work at eight* vào pattern bình thường của cuộc sống."},
+        {"type":"concept","title":"Where frequency adverbs usually sit","body":"Với lexical verbs: **I usually start / I often check / I hardly ever skip**. Với **be**: **I'm usually tired after a long meeting.** Hãy học placement bằng chunks trước; Day 11 sẽ hệ thống hóa thêm."},
+        {"type":"examples","items":[
+          {"en":"I usually start with focused work.","vi":"frequency adverb trước lexical verb start."},
+          {"en":"I'm usually more productive in the morning.","vi":"với be, usually đứng sau be."},
+          {"en":"I sometimes work late, but not most days.","vi":"sometimes có thể linh hoạt hơn; câu này vẫn tự nhiên và rõ."}
+        ]},
+        {"type":"concept","title":"Frequency phrases often live at the edges","body":"Các phrase như **most days / once or twice a week / every now and then** thường đứng đầu hoặc cuối clause: **Most days, I cook at home. / I go out for lunch once or twice a week.**"}
+      ]
+    },
+    {
+      "label": "Native chunks",
+      "minutes": "8 min",
+      "kicker": "USAGE · ROUTINES PEOPLE ACTUALLY TALK ABOUT",
+      "title": "Build routines with reusable chunks.",
+      "intro": "Một routine tự nhiên thường gồm những cụm có thể tái sử dụng ở nhiều ngày khác nhau, không phải từ vựng hiếm.",
+      "blocks": [
+        {"type":"examples","items":[
+          {"en":"Most days, I start with the hardest task first.","vi":"most days = pattern thường xuyên nhưng không tuyệt đối."},
+          {"en":"I tend to check messages after I've done some focused work.","vi":"tend to = xu hướng/habit, mềm hơn một rule tuyệt đối."},
+          {"en":"I go for a walk every now and then.","vi":"thỉnh thoảng, không thường xuyên."},
+          {"en":"I hardly ever skip breakfast.","vi":"gần như không bao giờ; không bằng never tuyệt đối."},
+          {"en":"I try to get around to reading in the evening.","vi":"get around to = cuối cùng tìm được thời gian làm điều đã định làm."},
+          {"en":"I usually wind down with music or a video.","vi":"wind down = giảm nhịp, thư giãn trước khi kết thúc ngày."}
+        ]},
+        {"type":"concept","title":"Routine language is often approximate","body":"**around eight / most days / once or twice a week / every now and then** giữ câu đúng với đời sống thật. Natural English thường chấp nhận approximation thay vì giả vờ precision không cần thiết."}
+      ]
+    },
+    {
+      "label": "Deep English",
+      "minutes": "6 min",
+      "kicker": "LANGUAGE LAB · VAGUENESS IS A FEATURE",
+      "title": "Words like usually and often are intentionally fuzzy.",
+      "intro": "Ngôn ngữ đời thực không phải database. Frequency words giúp speaker truyền một pattern hữu ích mà không cần đếm chính xác.",
+      "blocks": [
+        {"type":"concept","title":"Scalar meaning","body":"**always, usually, often, sometimes, rarely/hardly ever, never** tạo một scale. Ranh giới giữa chúng phụ thuộc context và speaker; **often** không có một percentage cố định áp dụng cho mọi tình huống."},
+        {"type":"concept","title":"Pragmatic accuracy","body":"Nếu một việc xảy ra 5 ngày trên 7 nhưng thay đổi theo tuần, **I usually… / Most days…** có thể trung thực hơn việc nói **I always…**. Natural speech ưu tiên cách đóng khung hữu ích và đúng mức độ certainty."},
+        {"type":"concept","title":"Habits are identity signals","body":"Khi bạn nói **I tend to start early / I hardly ever watch TV**, bạn không chỉ báo lịch; bạn đang cho người nghe thấy một phần lifestyle và priorities. Routine talk vì vậy là một nguồn small talk rất mạnh."}
+      ]
+    },
+    {
+      "label": "Output",
+      "minutes": "8 min",
+      "kicker": "SPEAKING · YOUR REAL DAY",
+      "title": "Describe patterns, not a memorized timetable.",
+      "intro": "Không viết script đầy đủ. Chỉ nhìn 5 prompts và nói bằng dữ liệu thật của bạn.",
+      "blocks": [
+        {"type":"list","items":[
+          "**Morning:** Most days, I…",
+          "**Work:** I usually / I tend to…",
+          "**Variation:** Every now and then, I…",
+          "**Rare habit:** I hardly ever…",
+          "**Evening:** I try to / I wind down by…"
+        ]},
+        {"type":"action","title":"90-second personal mission","body":"Nói 90 giây về một ngày làm việc điển hình. Phải có ít nhất **3 mức frequency khác nhau**, một câu Day 2 về work identity, và một detail giải thích **why** một habit quan trọng với bạn. Lần hai: bỏ bớt timestamps, làm câu nghe giống conversation hơn."}
+      ]
+    }
+  ],
+  "shadowing": [
+    {"text":"Most days, I start with focused work before I check messages.","note":"Cho MOST DAYS, FOCUSED WORK và CHECK MESSAGES prominence; phần còn lại nhẹ hơn."},
+    {"text":"I usually start early, but every now and then I have a slower morning.","note":"Đối chiếu USUALLY với EVERY NOW AND THEN; đừng đọc đều từng âm tiết."},
+    {"text":"I tend to wind down with music before I go to bed.","note":"Giữ TEND TO thành một chunk; WIND DOWN và BED là điểm neo chính."},
+    {"text":"I work mainly on backend systems, so I hardly ever have exactly the same day twice.","note":"Retrieval Day 2: WORK MAINLY ON; HARDLY EVER tạo contrast với routine."}
+  ]
+}
